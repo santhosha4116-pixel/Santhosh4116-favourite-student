@@ -5,9 +5,9 @@ import { Studentsdetails } from "./Studentsprovider";
 function Favouritecontainer(){
 return(
     <>
-        <Navbar></Navbar>
-        
-        <Favouritecard></Favouritecard>
+        <Navbar bgcolorfavstu={"#FFFFFF"} textfavstu={"#000000"} ></Navbar>
+
+        <Favouritecard ></Favouritecard>
     </>
 
 )

@@ -8,7 +8,7 @@ function App() {
   return ( 
 
     <div className='  flex-col flex gap-5'>
-     <Navbar></Navbar>
+     <Navbar bgcolorstulist={"#FFFFFF"} textstulist={"#000000"}></Navbar>
       
     <Card></Card>
       </div>
